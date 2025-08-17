@@ -45,7 +45,7 @@ I’m a passionate **BCA 3rd-year student** at Kashmir University with hands-on 
 ## 🌐 Connect with Me  
 
 - 📧 Email: [Shahidfayazmir2003@gmail.com](mailto:Shahidfayazmir2003@gmail.com)  
-- 💼 LinkedIn: [linkedin.com/in/yourusername](https://linkedin.com/in/yourusername) *(add once created)*  
+- 💼 LinkedIn: [linkedin.com/in/shahid-mir-6b9198259/]([https://linkedin.com/in/yourusername](https://www.linkedin.com/in/shahid-mir-6b9198259/))
 - 🐙 GitHub: [github.com/ShahidMirOfficial](https://github.com/ShahidMirOfficial)  
 
 ---
